@@ -1,0 +1,29 @@
+{
+  "name": "antd5-starter",
+  "version": "1.0.0",
+  "description": "antd5 starter",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkiddo/antd5-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkiddo/antd5-starter/issues"
+  },
+  "homepage": "https://github.com/tkiddo/antd5-starter#readme",
+  "dependencies": {
+    "antd": "^5.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^2.2.0",
+    "vite": "^3.2.5"
+  }
+}
